@@ -6,7 +6,7 @@ Finaly, your lovely MongoDB can accept your dict and store it.
 
 #  Installation
 ```
-$ pip install fix-dict
+$ pip install fixDict
 ```
 # Quick Start
 ```python
