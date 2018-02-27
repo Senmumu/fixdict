@@ -1,7 +1,7 @@
 # fix_dict: fix your dict and insert it into MongoDB
 
 Removes dots "." from keys, as mongo doesn't like that.
-Also, convert ints more than 8-bytes  to string cause BSON can only handle up to 8-bytes ints.
+Also, convert ints which more than 8-bytes  to string cause BSON can only handle up to 8-bytes ints.
 Finaly, your lovely MongoDB can accept your dict and store it.
 
 #  Installation
