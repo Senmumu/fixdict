@@ -10,7 +10,7 @@ $ pip install fixDict
 ```
 # Quick Start
 ```python
->>>from fix_dict import fix_dict
+>>>from fixdict import fix_dict
 >>>a = {"sen.li":112132312312}
 >>>b = fix_dict(a)
 >>> b
